@@ -1,0 +1,6 @@
+package com.example.teleop
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
